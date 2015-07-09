@@ -46,7 +46,7 @@
         
     ],
     "dependencies":{
-        "coldbox":"3.8.1"
+        "coldbox":"4.1.0+00002"
     },
     "devDependencies":{
         
